@@ -10,7 +10,12 @@ pip install -r requeriments.tx
 
 # Para rodar
 ```bash
-python mp3_player_terminal.py 'Sua musica.mp3'
+python mp3_player_spectrum.py 'Sua musica.mp3'
+```
+
+# Versão sem spectrum (não precisa do ffmpeg)
+```bash
+python mp3_player_light.py 'Sua musica.mp3'
 ```
 
 ## Contribuição
@@ -20,3 +25,4 @@ Contribuições são sempre bem-vindas! Para contribuir, por favor, crie um fork
 ## Licença
 
 Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+
