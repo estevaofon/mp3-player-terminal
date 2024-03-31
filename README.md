@@ -15,6 +15,10 @@ python mp3_player_spectrum.py 'Sua musica.mp3'
 
 # Versão sem spectrum (não precisa do ffmpeg)
 ```bash
+pip install -r requeriments-light.txt
+```
+
+```bash             
 python mp3_player_light.py 'Sua musica.mp3'
 ```
 
