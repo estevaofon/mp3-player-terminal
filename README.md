@@ -1,5 +1,5 @@
 # Terminal MP3 Player
-A terminal mp3 player que plot o spectro da música
+A terminal mp3 player que plota o spectro da música
 
 # Pré Requisitos
 Para usar a versão com visualização de spectrum é necessária instalar o ffmpeg no seu sistema operacional.
