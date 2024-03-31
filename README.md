@@ -1,14 +1,14 @@
 # Terminal MP3 Player
-A terminal mp3 player able to plot the music spectrum
+A terminal mp3 player que plot o spectro da música
 
 # Pré Requisitos
-Para usar a versão com visualização de spectrum é necessário instalar o ffmpeg no seu sistema operacional.
+Para usar a versão com visualização de spectrum é necessária instalar o ffmpeg no seu sistema operacional.
 Em seguida instalar as dependências necessários com
 ```bash
 pip install -r requeriments.tx
 ```
 
-# Para rodar faça
+# Para rodar
 ```bash
 python mp3_player_terminal.py 'Sua musica.mp3'
 ```
